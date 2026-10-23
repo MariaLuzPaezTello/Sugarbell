@@ -151,6 +151,6 @@ El jugador representa a la persona encargada de realizar las tareas y gestionar 
 
 ## Autores
 
-Páez Tello María Luz
+Páez Tello María Luz - @MariaLuzPaezTello
 Gordillo Guadalupe
 Tejerina Carolina
