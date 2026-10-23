@@ -44,9 +44,8 @@
 
 ## Cómo se juega
 
-En este relajante juego vas a ser la pastelera de Lumi, tu tarea: preparar los pedidos mas dulces y ricos, logrando desbloquear más postres y recetas a medida que avances de niveles.
+En este relajante juego vas a ser la única pastelera de la ciudad de Lumi, tu tarea: preparar los pedidos mas dulces y ricos, logrando desbloquear más postres y recetas a medida que avances de niveles.
 
-## Sinopsis
 
 ## Sinopsis
 
