@@ -65,19 +65,18 @@ A medida que los clientes visitan la pastelería y prueban nuevas delicias, la p
 La progresión de los niveles se definirá según el avance del jugador.
 
 ## Control del jugador
-
+.
 
 ## Victoria
 
 
-
+.
 ## Derrota
 
-
+.
 
 ## Fin
-
-a.
+.
 
 ## Por qué es divertido este juego
 
@@ -93,22 +92,22 @@ Sugarbell propone una experiencia relajante y creativa, combinando la temática 
 
 ## Documento de diseño
 
-
+.
 
 ## Guía de diseño
 
 
-
+.
 ## Definiciones de diseño del juego
 
-
+.
 ## Victoria (Cómo ganar)
 
 
-
+.
 ## Derrota (Cómo perder)
 
-
+.
 
 ## Transiciones entre niveles
 
@@ -116,13 +115,15 @@ Las transiciones permitirán pasar de una etapa a otra mediante el progreso del 
 
 ## Fracaso del nivel
 
-Se definirán las situaciones que impidan completar los objetivos de una etapa y las posibles formas de volver a intentarlo.
+.
 
 ## Enfoque principal del juego
 
 Ofrecer una experiencia cozy centrada en una pastelería, la realización de encargos y el progreso del jugador.
 
 ## Diagrama de flujo del juego
+
+.
 
 
 ## Definición de jugador
@@ -131,18 +132,18 @@ El jugador representa a la persona encargada de realizar las tareas y gestionar 
 
 ## Propiedades del jugador
 
-
+.
 
 ## Interfaz de usuario (UI)
 
-
+.
 
 ## Responsables
 
-
+.
 
 ## Enlaces de interés
-
+.
 
 ## Colaboradores
 
@@ -150,6 +151,6 @@ El jugador representa a la persona encargada de realizar las tareas y gestionar 
 
 ## Autores
 
-Páez Tello María Luz - @MariaLuzPaezTello
+Páez Tello María Luz
 Gordillo Guadalupe
 Tejerina Carolina
