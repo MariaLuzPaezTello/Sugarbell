@@ -39,7 +39,7 @@
 - **Género:** Cozy game / simulación.
 - **Temática:** Pastelería y realización de encargos.
 - **Plataforma:** Por definir.
-- **Motor de desarrollo:** Unity.
+- **Motor de desarrollo:** Godot.
 - **Público objetivo:** Personas que disfrutan de juegos relajantes y creativos.
 
 ## Cómo se juega
@@ -62,21 +62,9 @@ A medida que los clientes visitan la pastelería y prueban nuevas delicias, la p
 
 ## Niveles del juego
 
-La progresión de los niveles se definirá según el avance del jugador.
+El nivel avanzara dependiendo de la cantidad de monedas que cada pedido deje, para pasar al nivel 2 debera ganar 10 monedas.
 
 ## Control del jugador
-.
-
-## Victoria
-
-
-.
-## Derrota
-
-.
-
-## Fin
-.
 
 ## Por qué es divertido este juego
 
@@ -100,22 +88,10 @@ Sugarbell propone una experiencia relajante y creativa, combinando la temática 
 .
 ## Definiciones de diseño del juego
 
-.
-## Victoria (Cómo ganar)
-
-
-.
-## Derrota (Cómo perder)
-
-.
 
 ## Transiciones entre niveles
 
 Las transiciones permitirán pasar de una etapa a otra mediante el progreso del jugador y la finalización de los objetivos.
-
-## Fracaso del nivel
-
-.
 
 ## Enfoque principal del juego
 
