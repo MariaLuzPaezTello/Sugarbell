@@ -107,9 +107,6 @@ Sugarbell propone una experiencia relajante y creativa, combinando la temática 
 - Experiencia relajante.
 - Temática de pastelería.
 
-## Documento de diseño
-
-.
 
 ## Guía de diseño
 
@@ -136,7 +133,11 @@ Ofrecer una experiencia cozy centrada en una pastelería, la realización de enc
 
 ## Definición de jugador
 
-El jugador representa a la persona encargada de realizar las tareas y gestionar los pedidos dentro de la pastelería.
+El jugador representa a la persona encargada de realizar las tareas y gestionar los pedidos dentro de la pastelería. 
+
+Dirigido a cualquiera que quiera pasar una experiencia relajante y acogedora. Diseñado con inclusividad en mente, para atraer a jugadores de todos los géneros y garantizar una experiencia equitativa. Orientado a aquellos que dan sus primeros pasos en el mundo de los videojuegos o disfrutan de juegos tranquilos que no requieran concentración ni acción.
+
+La dificultad se ajusta para ser accesible, asegurando que los jugadores disfruten del juego sin sentirse abrumados, promoviendo así una experiencia divertida y gratificante. 
 
 ## Propiedades del jugador
 
