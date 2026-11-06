@@ -91,6 +91,10 @@ Para ganar la demo de juego se deberán conseguir 500 monedas.
 
 ## Control del jugador
 
+ En Sugarbell el jugador ocupará el rol de Mochi, la pastelería de la ciudad. El juego permite a los jugadores dirigir los utensilios e ingredientes con el mouse creando así la receta del postre encargado.
+
+La misión de los jugadores es realizar los pedidos de los ciudadanos los cuales tienen recetas que cada vez requieran más paso.
+
 ## Por qué es divertido este juego
 
 Sugarbell propone una experiencia relajante y creativa, combinando la temática de la pastelería con la satisfacción de completar pedidos y progresar dentro del juego. Es un juego sin presión, hecho para pasar el rato completando relajantes recetas.
