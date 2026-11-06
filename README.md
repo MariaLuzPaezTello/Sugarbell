@@ -113,8 +113,11 @@ Sugarbell propone una experiencia relajante y creativa, combinando la temática 
 
 ## Guía de diseño
 
+En Dinosaur Park, adoptaremos la siguiente paleta de colores para mantener el ambiente acogedor y llamativo de la ciudad de Lumi. Con un distintivo estilo pixelart, buscamos ofrecer una experiencia visual acogedora y envolvente que acompañe el momento satisfactorio de un juego tranquilo.
 
-.
+La interfaz de usuario se mantendrá clásica, intuitiva y fácil de entender, mientras que las animacione de elementos mejorarán la inmersión del jugador en este mundo mágico.
+
+
 ## Definiciones de diseño del juego
 
 
