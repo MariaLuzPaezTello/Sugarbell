@@ -9,16 +9,11 @@
 - [Elementos del juego](#elementos-del-juego)
 - [Niveles del juego](#niveles-del-juego)
 - [Control del jugador](#control-del-jugador)
-- [Victoria](#victoria)
-- [Derrota](#derrota)
-- [Fin](#fin)
 - [Por qué es divertido este juego](#por-qué-es-divertido-este-juego)
 - [Características clave](#características-clave)
 - [Documento de diseño](#documento-de-diseño)
 - [Guía de diseño](#guía-de-diseño)
 - [Definiciones de diseño del juego](#definiciones-de-diseño-del-juego)
-- [Victoria (Cómo ganar)](#victoria-cómo-ganar)
-- [Derrota (Cómo perder)](#derrota-cómo-perder)
 - [Transiciones entre niveles](#transiciones-entre-niveles)
 - [Fracaso del nivel](#fracaso-del-nivel)
 - [Enfoque principal del juego](#enfoque-principal-del-juego)
@@ -26,7 +21,6 @@
 - [Definición de jugador](#definición-de-jugador)
 - [Propiedades del jugador](#propiedades-del-jugador)
 - [Interfaz de usuario (UI)](#interfaz-de-usuario-ui)
-- [Responsables](#responsables)
 - [Enlaces de interés](#enlaces-de-interés)
 - [Colaboradores](#colaboradores)
 - [Autores](#autores)
@@ -112,6 +106,9 @@ Sugarbell propone una experiencia relajante y creativa, combinando la temática 
 
 En Sugarbell adoptaremos la siguiente paleta de colores para mantener el ambiente acogedor y llamativo de la ciudad de Lumi. Con un distintivo estilo pixelart, buscamos ofrecer una experiencia visual acogedora y envolvente que acompañe el momento satisfactorio de un juego tranquilo.
 
+<img width="679" height="432" alt="Captura de pantalla 2026-11-06 200004" src="https://github.com/user-attachments/assets/d9572b4b-eb7f-4e86-9015-164cb24a6140" />
+
+
 La interfaz de usuario se mantendrá clásica, intuitiva y fácil de entender, mientras que las animacione de elementos mejorarán la inmersión del jugador en este mundo mágico.
 
 
@@ -128,7 +125,7 @@ Ofrecer una experiencia cozy centrada en una pastelería, la realización de enc
 
 ## Diagrama de flujo del juego
 
-.
+<img width="1212" height="1924" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/81539698-8ab5-4d0d-98ee-ba50c50041ed" />
 
 
 ## Definición de jugador
@@ -155,11 +152,21 @@ Tomamos de referencia juegos como:
 
 •Buena Pizza, Gran Pizza
 
+<img width="736" height="414" alt="Review_ Good Pizza, Great Pizza – A Surprisingly Addictive Cozy Management Sim _  PeaPodGirlGaming" src="https://github.com/user-attachments/assets/790f8f61-3d22-4603-a371-9c40df455bc6" />
 
-•Papa's pizzería 
+Link: https://store.steampowered.com/app/770810/Buena_Pizza_Gran_Pizza_Simulador_de_cocina_acogedor/?l=latam
+
+•Papa's Bakeria
+
+<img width="640" height="480" alt="images" src="https://github.com/user-attachments/assets/25c21b70-5a30-49af-ad68-c3b280bc60dd" />
+
+Link: https://www.crazygames.com/es/game/papas-bakeria
 
 •Cocina con Sarah
 
+<img width="736" height="579" alt="descarga - 2026-11-06T200520 143" src="https://github.com/user-attachments/assets/71cb1173-60fc-4945-b7af-0d4a17121451" />
+
+Link: https://www.juegosdechicas.com/juegos/juegos_de_cocina_con_sara
 ## Colaboradores
 
 
