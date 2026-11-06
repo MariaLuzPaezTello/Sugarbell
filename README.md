@@ -62,7 +62,31 @@ A medida que los clientes visitan la pastelería y prueban nuevas delicias, la p
 
 ## Niveles del juego
 
-El nivel avanzara dependiendo de la cantidad de monedas que cada pedido deje, para pasar al nivel 2 debera ganar 10 monedas.
+El nivel avanzara dependiendo de la cantidad de monedas que cada pedido deje, obteniendo cada vez nuevas recetas. 
+
+NIVEL 1
+
+El nivel uno presenta órdenes de la primera receta, medialunas. Para poder pasar al nivel 2 se deberán conseguir 10 monedas.
+
+NIVEL 2 
+
+El nivel dos desbloquea una receta nueva: palmeritas. 
+Para avanzar al nivel 3 se deberán conseguir 50 monedas.
+
+NIVEL 3
+
+El nivel tres suma una nueva receta: cupcakes. 
+Para avanzar al nivel 4 se deberán conseguir 100 monedas.
+
+NIVEL 4
+
+Junto con las recetas ya conocidas se suma una nueva: cookies.
+Para avanzar al nivel 5 deberán conseguir 150 monedas.
+
+NIVEL 5
+Para este nivel se suma las primeras recetas que otorgan más de 10 monedas: los rolls de canela y los fresier.
+Para ganar la demo de juego se deberán conseguir 500 monedas.
+
 
 ## Control del jugador
 
