@@ -141,18 +141,24 @@ La dificultad se ajusta para ser accesible, asegurando que los jugadores disfrut
 
 ## Propiedades del jugador
 
-.
+Mochi es la personaje de este mágico juego sin embargo su apariencia no se muestra para que así el jugador se imagine a su mismo siendo el que se encarga de la pastelería Sugarbell.
 
 ## Interfaz de usuario (UI)
 
-.
 
-## Responsables
+La interfaz del juego en PC será diseñada para brindar una experiencia intuitiva y fluida. El cronómetro del horno marcará el tiempo exacto en que los postres se cocinan y la paciencia de los clientes no es un obstáculo en este tipo de juegos ya que no se tomará en cuenta. Los controles, configurados con el mouse el cual arrastrará todos los elementos visbles se adaptan de manera eficiente a la jugabilidad en PC. Mensajes como "¡Entregado!" y "Ganaste x cantidad de monedas" aparecerán al entregar el pedido de la misma forma en que el mismo se mostrará al inicio del nivel, proporcionando una retroalimentación clara al jugador. La interfaz será simple y efectiva, centrada en mejorar la experiencia de juego en la plataforma de PC.
 
-.
 
 ## Enlaces de interés
-.
+
+Tomamos de referencia juegos como: 
+
+•Buena Pizza, Gran Pizza
+
+
+•Papa's pizzería 
+
+•Cocina con Sarah
 
 ## Colaboradores
 
