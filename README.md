@@ -1,7 +1,7 @@
 # Sugarbell 🍰
 ## Game Design Document (GDD)
 
-<img width="1000" height="1000" alt="WhatsApp Image 2026-11-07 at 11 49 10 PM" src="https://github.com/user-attachments/assets/1f9752b3-6d24-4e33-892a-c8776155ee90" />
+<img width="1000" height="1086" alt="WhatsApp Image 2026-11-07 at 11 49 10 PM" src="https://github.com/user-attachments/assets/1f9752b3-6d24-4e33-892a-c8776155ee90" />
 
 
 - [Especificaciones técnicas](#especificaciones-técnicas)
