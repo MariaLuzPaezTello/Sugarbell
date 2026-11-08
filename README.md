@@ -59,6 +59,9 @@ A medida que los clientes visitan la pastelería y prueban nuevas delicias, la p
 
 El nivel avanzara dependiendo de la cantidad de monedas que cada pedido deje, obteniendo cada vez nuevas recetas. 
 
+<img width="1165" height="1350" alt="WhatsApp Image 2026-11-07 at 11 56 36 PM" src="https://github.com/user-attachments/assets/3ed7fdeb-d4ce-40ef-96fa-eda27a726eef" />
+
+
 •NIVEL 1•
 
 El nivel uno presenta órdenes de la primera receta, medialunas. Para poder pasar al nivel 2 se deberán conseguir 10 monedas.
@@ -145,6 +148,8 @@ Mochi es la personaje de este mágico juego sin embargo su apariencia no se mues
 
 
 La interfaz del juego en PC será diseñada para brindar una experiencia intuitiva y fluida. El cronómetro del horno marcará el tiempo exacto en que los postres se cocinan y la paciencia de los clientes no es un obstáculo en este tipo de juegos ya que no se tomará en cuenta. Los controles, configurados con el mouse el cual arrastrará todos los elementos visbles se adaptan de manera eficiente a la jugabilidad en PC. Mensajes como "¡Entregado!" y "Ganaste x cantidad de monedas" aparecerán al entregar el pedido de la misma forma en que el mismo se mostrará al inicio del nivel, proporcionando una retroalimentación clara al jugador. La interfaz será simple y efectiva, centrada en mejorar la experiencia de juego en la plataforma de PC.
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-07 at 11 55 04 PM" src="https://github.com/user-attachments/assets/00b19834-f405-463a-81ec-5b9a829b4593" />
 
 
 ## Enlaces de interés
